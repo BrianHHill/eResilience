@@ -11,13 +11,13 @@ Leverage + unit open-science collaborations to reach + support crisis impacted i
 # Roadmap
 
 Goal1:
-Enable increased accuracy of pre-crisis impact prediction, modelling and impact preparations within Australia
+Enable increased accuracy of pre-crisis impact prediction, modelling and impact preparations within Australia -  https://github.com/BrianHHill/eResilience/projects/1
 
 Goal2:
-Support timely resource discovery across formal + informal entities within Australia during crisis event impact during D1, W1, M1 intervals
+Support timely resource discovery across formal + informal entities within Australia during crisis event impact during D1, W1, M1 intervals - https://github.com/BrianHHill/eResilience/projects/2
 
 Goal3:
-Develop countermeasures for real time deployment on disinformation campaigns across online platforms
+Develop countermeasures for real time deployment on disinformation campaigns across online platforms - https://github.com/BrianHHill/eResilience/projects/3
 
 Goal4:
-Develop early stage digital outreach interventions to support individuals + crisis impacted communities through recovery and resilience building initiatives
+Develop early stage digital outreach interventions to support individuals + crisis impacted communities through recovery and resilience building initiatives - https://github.com/BrianHHill/eResilience/projects/4
