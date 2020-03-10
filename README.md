@@ -2,7 +2,7 @@
 eResilience is an open science initiative delivered as part of the eLife2020 Innovation Leaders cohort to increase disaster + crisis resilience through open-roadmap initiatives. See https://elifesciences.org/labs/fdcb6588/innovation-leaders-2020-introducing-the-cohort
 
 # Vision
-Leverage + unit open-science collaborations to reach + support crisis impacted commnities across pre, mid and post crisis impact phases.
+Leverage + unit open-science collaborations to reach + support crisis impacted individuals and communities across pre, mid and post crisis impact phases.
 
 # Roadmap
 
