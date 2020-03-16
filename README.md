@@ -21,3 +21,7 @@ Develop countermeasures for real time deployment on disinformation campaigns acr
 
 Goal4:
 Develop early stage digital outreach interventions to support individuals + crisis impacted communities through recovery and resilience building initiatives - https://github.com/BrianHHill/eResilience/projects/4
+
+# Support
+If you'd like to support the work and buy me a ☕, I'd greatly appreciate it!
+https://www.buymeacoffee.com/laughingmind
